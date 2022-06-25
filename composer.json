@@ -1,0 +1,18 @@
+{
+    "name": "mo7am/patterns",
+    "description": "Practice PHP Design Patterns",
+    "autoload": {
+        "psr-4": {
+            "Mo7am\\Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Shawky",
+            "email": "41241081+mo7ameds7awky@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    }
+}
